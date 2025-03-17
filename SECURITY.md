@@ -18,6 +18,11 @@ To report a vunerability, please go to this repo's **Security** tab and use Priv
 All vunerabilities are to be treated as confidential (as if they were an extremely critical issue).
 
 
+## Compensation & Reward
+
+As not to encourage malicious behaviour, we do not offer monetary rewards for vunerabilities reported at this time. If you are interested in a paid position, check out our [Careers Portal](https://otterance.io/careers)!
+
+
 ## Safe Harbour Policy
 
 You may test for security vunerabilities in an isolated environment (ie. not impacting production servers). Your testing must not damage the service or experience for other users. Any damage to software, accidental or intentional, production or testing, will be considered unauthorised access.
