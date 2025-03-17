@@ -8,8 +8,8 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.2  (beta edition) | :white_check_mark: (submit here) |
-| 1.0.1 (beta edition)  | :white_check_mark: (submit here) |
-| 1.0.0 (dev edition)   | :x: (please submit via dev channels) |
+| 1.0.1 (beta edition)  | :x: (please submit via Beta Tester channels) |
+| 1.0.0 (dev edition)   | :x: (please submit via Dev channels) |
 
 
 ## Reporting a Vulnerability
