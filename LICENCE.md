@@ -56,7 +56,7 @@ Licensor may terminate this Agreement if you violate any terms. Upon termination
 ---
 
 ## 9. GOVERNING LAW
-This Agreement shall be governed by the laws of Australia. Any disputes shall be resolved in the courts of [Jurisdiction].
+This Agreement shall be governed by the laws of Australia. Any disputes shall be resolved in the courts of Australia.
 
 ---
 
