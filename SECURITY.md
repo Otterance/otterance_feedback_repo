@@ -29,6 +29,7 @@ To the fullest extent permitted by international law, we will not take legal act
 
 ## "What Should I Report?"
 You may use PVR to report any vunerabilities that may cause disruption to Otterance services (eg. exposed secret API keys, leaked source code, etc). Plesae include a brief description of the severity in your report.
+When reporting leaked code, please cite where you found this code and include a screenshot.
 
 
 ## Isolated Testing For PenTesting Teams
