@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[BUG]"
 labels: ''
-assignees: ''
+assignees: LumiResults
 
 ---
 
@@ -33,6 +33,9 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+
+**Build Version (please complete the following information):**
+- Build Version number [eg. 1.2.3] [this forum is only for Stable releases]
 
 **Additional context**
 Add any other context about the problem here.
