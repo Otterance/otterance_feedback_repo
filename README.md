@@ -14,10 +14,10 @@ Versions are named in sequential order.
 
 R = release version | U = update version
 
-**For Stable/Public releases: ** `r`.`u`.`3`
+For Stable/Public releases: `r`.`u`.`3`
 
-**For Beta releases: ** `r`.`u`.`2`
+For Beta releases: `r`.`u`.`2`
 
-**For Staging releases: ** `r`.`u`.`1`
+**For Staging releases: `r`.`u`.`1`
 
-**For Dev versions: ** `r`.`u`.`0`
+**For Dev versions: `r`.`u`.`0`
