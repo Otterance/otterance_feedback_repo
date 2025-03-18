@@ -12,10 +12,12 @@ Leave feedback in this repo using GitHub Issues!
 
 Versions are named in sequential order.
 
-**For Stable/Public releases: ** `[Major version]`.`[Minor version]`.`3`
+R = release version | U = update version
 
-**For Beta releases: ** `[Major version]`.`[Minor version]`.`2`
+**For Stable/Public releases: ** `r`.`u`.`3`
 
-**For Staging releases: ** `[Major version]`.`[Minor version]`.`1`
+**For Beta releases: ** `r`.`u`.`2`
 
-**For Dev versions: ** `[Major version]`.`[Minor version]`.`0`
+**For Staging releases: ** `r`.`u`.`1`
+
+**For Dev versions: ** `r`.`u`.`0`
